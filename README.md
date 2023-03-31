@@ -1,4 +1,4 @@
-# guessing-number
+# Guessing Number Game
 
 Application to guess a randomly chosen number with Python. You have 3 in total and you are trying to find the number between 1-10. I designed this project for practice.
 
